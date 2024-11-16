@@ -1,0 +1,6 @@
+@expo_tec_upgrade_b_HostAddress = http://localhost:5052
+
+GET {{expo_tec_upgrade_b_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
